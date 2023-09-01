@@ -8,7 +8,7 @@ Faculty of Sciences.
 
 Academic year 2023-2024
 
-The course will include Python example on the course topics:
+The course will include Python examples on the course topics:
 
 + Topìc 1. Basic properties: wave optics and geometrical optics, diffraction phenomena, coherence and interferences.
 + Topic 2. Basic light-matter interaction phenomena. Light sources.

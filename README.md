@@ -9,8 +9,11 @@ Academic year 2023-2024
 
 The course will include Python examples on the course topics:
 
-+ Topic 1. Basic properties: wave optics and geometrical optics, diffraction phenomena, coherence and interferences.
++ Topic 1. Basic properties: wave optics and geometrical optics, diffraction phenomena, coherence and interferences.  
+  - [Fraunhofer Diffraction: circular aperture](https://nbviewer.jupyter.org/github/IrisFDTD/OPTICS-UNIZAR/blob/main/Topic_1/chapter1_diffraction_circular_aperture.ipynb)
+  - [Fraunhofer Diffraction: rectangular aperture](https://nbviewer.jupyter.org/github/IrisFDTD/OPTICS-UNIZAR/blob/main/Topic_1/chapter1_diffraction_rectangular_aperture.ipynb)
   - [Coherence and interference phenomena](https://nbviewer.jupyter.org/github/IrisFDTD/OPTICS-UNIZAR/blob/main/Topic_1/chapter1_coherence_and_interferences.ipynb)
+  - [Fermat's principle, Lagrangian optics and the ray equation](https://nbviewer.jupyter.org/github/IrisFDTD/OPTICS-UNIZAR/blob/main/Topic_1/chapter1_path_of_light.ipynb)
 + Topic 2. Basic light-matter interaction phenomena. Light sources.
 + Topic 3. Light detectors.
 + Topic 4. Radiometry, photometry and colorimetry.

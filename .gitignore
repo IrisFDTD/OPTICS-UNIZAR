@@ -4,13 +4,14 @@ __pycache__/
 *$py.class
 
 fourier/*
-topic_9/*
+topic_5/*
 README_with_links.md
 
 Pedro_chapter1_diffraction_rectangular_aperture.ipynb
 Chapter 7-ADVANCED-examples_optics_paraxial_calculator.ipynb
 Copia de Chapter 7-examples_optics_paraxial_calculator.ipynb
 optics_paraxial_calculator.py
+chapter4.2-colorimetry_complete.ipynb
 *.png
 *.c
 *.py

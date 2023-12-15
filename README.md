@@ -17,7 +17,7 @@ The course will include Python examples on the course topics:
 + Topic 2. [Basic light-matter interaction phenomena. Light sources.](https://nbviewer.jupyter.org/github/IrisFDTD/OPTICS-UNIZAR/blob/main/Topic_2/chapter2.ipynb)
 + Topic 3. Light detectors.
 + Topic 4. Radiometry, photometry and colorimetry.
-   - [Colorimetry examples](./Topic_4/chapter4-colorimetry.ipynb)
+   - [Colorimetry examples](https://nbviewer.jupyter.org/github/IrisFDTD/OPTICS-UNIZAR/blob/main/Topic_4/chapter4-colorimetry.ipynb)
 + Topic 5. Anisotropic media. Electro-optical and magneto-optical effects.
 + Topic 6. Polarization and related devices.
 + Topic 7. Optical imaging.
